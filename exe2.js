@@ -3,4 +3,3 @@ const livro = {
   autor: "J.R.R. Tolkien",
   numeroDePaginas: 1216
 };
-console.log(livro);
